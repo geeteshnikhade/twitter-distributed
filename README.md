@@ -5,7 +5,7 @@
 | **Name** | **NYU net_id**|
 | ----- | ------------|
 | Sangram Ghuge | smg727 |
-| Geetesh Nikhde | gpn218 |
+| Geetesh Nikhade | gpn218 |
 
 ### Architecture and function overview:
 ![alt text](images/Distributed_1.jpg)
